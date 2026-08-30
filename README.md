@@ -6,9 +6,7 @@ Discover planets that were hidden from the galaxy generation system in space sta
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
-### This mod allows the galaxy to randomly generate:
-* Disabled planets
-* Unused planets + GA unused planets
+### This mod allows the galaxy to randomly generate 2008_feb version planets:
 * Special planets
 * Home planets
 
