@@ -11,8 +11,9 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * Home planets
 
 I dropped the scripts into the right folders so the game should generate them randomly (with the vanilla ones)
+Im manually rewrite the parenting path and the file names so this should be compatible with the **vanilla** and **any other** planet mod
 
-The mod contain **1000~ planets**
+The mod contain **1000~ planets** or more...
 
 ## Compatible with
 * [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets)
