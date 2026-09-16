@@ -5,9 +5,13 @@ Discover planets from the 2008_feb version!
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
+## Recommended
+* [Sporemod-Fruits-in-civ-and-space](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) if you want see the 2008 february fruits in your game.
+
 ### This mod allows the galaxy to randomly generate 2008_feb version planets:
 * Special planets
 * Home planets
+* Any other planets from 2008_feb version
 
 I dropped the scripts into the right folders so the game should generate them randomly (with the vanilla ones)
 
