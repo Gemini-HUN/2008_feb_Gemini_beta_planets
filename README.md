@@ -11,8 +11,8 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ### This mod allows the galaxy to randomly generate 2008_feb version planets:
 * Special planets
 * Home planets
-* Any other planets from 2008_feb version
 * Pitch black planets can appear too
+* Any other planets from 2008_feb version
 
 I dropped the scripts into the right folders so the game should generate them randomly (with the vanilla ones)
 
