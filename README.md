@@ -20,6 +20,8 @@ Im manually rewrite the parenting path and the file names so this should be comp
 
 The mod contain **1000~ planets** or more...
 
+* Compatibility test by **Aster** from Discord
+
 ## Compatible with
 * [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets)
 * [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets)
