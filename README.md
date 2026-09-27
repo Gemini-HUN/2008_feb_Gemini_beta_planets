@@ -33,3 +33,6 @@ The mod contain **1000~ planets** or more...
 [2008_feb_starter_worlds](https://github.com/Gemini-HUN/2008_feb_starter_worlds)
 
 **A galaxy reset is recommended before using this mod.**
+
+### Special thanks
+* [@A-xesey](https://github.com/A-xesey) for restore prototype fruits
