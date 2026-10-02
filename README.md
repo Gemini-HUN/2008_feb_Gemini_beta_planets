@@ -6,7 +6,7 @@ Discover planets from the 2008_feb version!
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
 ## Requirement
-[Fruit_container_Gemini_mods](https://github.com/Gemini-HUN/Fruit_container_Gemini_mods) for better mod compatibility and appear the fruits
+* [Fruit_container_Gemini_mods](https://github.com/Gemini-HUN/Fruit_container_Gemini_mods) for better mod compatibility and appear the fruits
 
 ## Recommended
 * [Sporemod-Fruits-in-civ-and-space](https://github.com/Gemini-HUN/Sporemod-Fruits-in-civ-and-space) if you want see the 2008 february fruits in your game.
