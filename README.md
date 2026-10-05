@@ -1,5 +1,5 @@
 # 2008_feb_Gemini_beta_planets
-## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_Gemini_beta_planets?style=flat-square&color=d81b60&logo=github)
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/2008_feb_Gemini_beta_planets/latest?style=flat-square&color=d81b60&logo=github)
 Discover planets from the 2008_feb version!
 
 ## How to install mods?
